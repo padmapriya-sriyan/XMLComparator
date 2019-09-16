@@ -1,0 +1,9 @@
+<document>
+    <!-- comment -->
+    <element attribute="10" attributeX="100">
+        <text>  text content </text>
+        <inner>
+            <node />
+        </inner>
+    </element>    
+</document>

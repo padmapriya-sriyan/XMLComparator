@@ -1,0 +1,7 @@
+<document>
+    <element attribute="100">
+        <text>text content</text>
+        <inner />
+        <inner2 />
+    </element>    
+</document>
